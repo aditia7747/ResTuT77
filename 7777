@@ -1,0 +1,30 @@
+# 👨‍💻 Restu Aditia  
+Hacker ✦ Dev ✦ Terminal Wizard  
+
+---
+
+## 🔧 Skills  
+```bash
+$ cat skills.txt
+- Python 🐍  
+- C++ 💣  
+- JavaScript ⚡  
+- Bash 🐚
+$ python3 scanner.py --target 192.168.1.1 --ports 20-100
+
+---
+
+### 📌 Cara Pakai:
+- Masuk ke repo GitHub kamu (yang sama dengan username: `ResTuT77`)
+- Klik `README.md`, lalu edit (ikon ✏️)
+- Hapus isi lama, **tempel versi ringkas ini**
+- Klik **Commit**
+
+---
+
+Kalau kamu mau, aku juga bisa bantu buatkan:
+- Badge (Python, VSCode, Nmap, dll)
+- Banner GitHub SVG keren
+- Animasi terminal auto-ngetik (seperti profil hacker)
+
+Cukup bilang: "**Mau tambah badge + animasi**", nanti aku buatkan yang clean dan gak norak.
